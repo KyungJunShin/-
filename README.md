@@ -23,4 +23,4 @@ ImageDataGenerator : 클래스를 통해 객체를 생성할 때 파라미터를
 
 모델 순서
 
-Dense -> Conv2D -> Relu or sigmoid -> MaxPooling2D
+Dense -> Conv2D -> Relu or sigmoid -> MaxPooling2D --> 반복 후 SoftMAX추가
